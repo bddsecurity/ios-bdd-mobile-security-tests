@@ -1,2 +1,9 @@
-# bdd-mobile-security-testing
-Implementation of OWASP MSTG Tests in Calabash and Cucumber 
+# BDD Mobile Security Testing
+BDDsecurity offers a complete set of BDD security tests with Calabash,Cucumber and Ruby, following the OWASP Mobile Security Testing Guide and the OWASP Mobile Top 10 2016.
+
+The tests use the power of [calabash.io](https://calabash.io) to automate the UI, [Cucumber](https://cucumber.io/) and Gherkin for its simple language.
+
+In order to use the tests please install the [calabash sandbox](https://github.com/calabash/install)
+
+
+
