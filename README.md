@@ -6,5 +6,7 @@ The tests use the power of [calabash.io](https://calabash.io) to automate the UI
 In order to use the tests you need to install the calabash sandbox, following this [guide](https://github.com/calabash/install).
 
 ## v0.1
+First release. Stay tuned
+
 
 
