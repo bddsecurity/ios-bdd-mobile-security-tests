@@ -1,4 +1,8 @@
 # BDD Mobile Security Testing
+Because man companie are embracing the Agile transformation, the integration of the security in the Continuous Delivery / Integration is becoming more and more important and effective.
+
+As part of continuous delivery, the mobile applications play an important role.
+
 BDDsecurity offers a complete set of BDD security tests with Calabash,Cucumber and Ruby, following the OWASP Mobile Security Testing Guide and the OWASP Mobile Top 10 2016.
 
 The tests use the power of [calabash.io](https://calabash.io) to automate the UI, [Cucumber](https://cucumber.io/) and Gherkin for its simple language.
