@@ -1,1 +1,0 @@
-Then I should not see text with "mysensitivetext" in my "ERROR" log 
