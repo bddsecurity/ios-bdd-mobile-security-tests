@@ -3,7 +3,8 @@ BDDsecurity offers a complete set of BDD security tests with Calabash,Cucumber a
 
 The tests use the power of [calabash.io](https://calabash.io) to automate the UI, [Cucumber](https://cucumber.io/) and Gherkin for its simple language.
 
-In order to use the tests please install the [calabash sandbox](https://github.com/calabash/install)
+In order to use the tests you need to install the calabash sandbox, following this [guide](https://github.com/calabash/install).
 
+## v0.1
 
 
