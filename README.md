@@ -1,5 +1,5 @@
 # BDD Mobile Security Testing
-Because many companies are embracing the Agile transformation, the integration of the security in the Continuous Delivery / Integration is becoming more and more important and effective.
+Because many companies are embracing the Agile transformation, the integration of the security in the Continuous Delivery / Integration is becoming more and more important and effective. 
 
 As part of continuous delivery and the Agile software development, the mobile applications play an important role.
 
