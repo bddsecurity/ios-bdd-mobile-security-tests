@@ -9,6 +9,10 @@ The tests use the power of [calabash.io](https://calabash.io) to automate the UI
 
 In order to use the tests you need to install the calabash sandbox, following this [guide](https://github.com/calabash/install).
 
+## OWASP MASVS and MSTG
+The repo's structure is based on the [OWASP Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs) and the corresponding tests from the [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). For each test many features are defined with corresponding steps. 
+  
+
 ## v0.1
 First release. Stay tuned
 
