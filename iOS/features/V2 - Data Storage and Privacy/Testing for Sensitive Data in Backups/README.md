@@ -9,6 +9,6 @@ The following folders myust be inspected for backup data:
 * Library/Application Support/
 * tmp/
 
-##Reference
+## Reference
 
 https://github.com/OWASP/owasp-mstg/blob/master/Document/0x06d-Testing-Data-Storage.md#testing-for-sensitive-data-in-backups
