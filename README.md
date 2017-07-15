@@ -7,8 +7,9 @@ BDDsecurity offers a complete set of BDD security tests with Calabash,Cucumber a
 
 The tests use the power of [calabash.io](https://calabash.io) to automate the UI, [Cucumber](https://cucumber.io/) and Gherkin for its simple language.
 
-In order to use the tests you need to install the calabash sandbox, following this [guide](https://github.com/calabash/install).
 
+### Prerequisites
+* [Calabash.io](https://github.com/calabash/install)
 
 ## OWASP MASVS and MSTG
 The repo's structure is based on the [OWASP Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs) and the corresponding tests from the [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). For each test many features are defined with corresponding steps. 
