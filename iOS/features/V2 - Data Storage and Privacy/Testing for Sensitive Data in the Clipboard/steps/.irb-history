@@ -1,7 +1,0 @@
-%x( xcrun simctl spawn booted syslog | grep #{text} |grep #{type} | wc -l )
-%x( xcrun simctl spawn booted syslog | grep #{text} |grep #{type} | wc -l )
-%x( xcrun simctl spawn booted syslog | grep user |grep a | wc -l )
-%x( xcrun simctl spawn booted syslog | grep #{text} |grep #{type} | wc -l ).delete!("\n").delete!(" ").to_i > 0
-%x( xcrun simctl spawn booted syslog | grep username |grep aa | wc -l ).delete!("\n").delete!(" ").to_i > 0
-%x( xcrun simctl spawn booted syslog | grep username |grep a | wc -l ).delete!("\n").delete!(" ").to_i > 0
-exit
