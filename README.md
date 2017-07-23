@@ -20,8 +20,8 @@ The repo's structure is based on the [OWASP Mobile Application Security Verifica
 iOS:
 
 * V2 - Data Storage and Privacy
-	* Testing For Sensitive Data in Logs (Done)
-	* Testing for Sensitive Data in the Clipboard (Done)
+	* [Testing For Sensitive Data in Logs (Done)](https://github.com/bddsecurity/bdd-mobile-security-testing/tree/master/iOS/features/V2%20-%20Data%20Storage%20and%20Privacy/Testing%20For%20Sensitive%20Data%20in%20Logs)
+	* [Testing for Sensitive Data in the Clipboard (Done)](https://github.com/bddsecurity/bdd-mobile-security-testing/tree/master/iOS/features/V2%20-%20Data%20Storage%20and%20Privacy/Testing%20for%20Sensitive%20Data%20in%20the%20Clipboard)
 	* Testing for Sensitive Data in the Keyboard Cache (To Be Completed)
 	* Testing for Sensitive Data in Backups (To Be Completed)
 
