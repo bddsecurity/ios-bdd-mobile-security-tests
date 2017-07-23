@@ -1,8 +1,0 @@
-# record a long press anywhere on the view - has to be a long press
-# tap will just highlight a word
-> playback("longpress", {:query => "textView marked:'yourtext'"})
-> sleep(0.4)
-> touch("button marked:'Select All'")
-> sleep(0.4)
-> touch("button marked:'Cut'")
-> sleep(0.4)
