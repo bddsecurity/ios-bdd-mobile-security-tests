@@ -14,9 +14,27 @@ The tests use the power of [calabash.io](https://calabash.io) to automate the UI
 ## OWASP MASVS and MSTG
 The repo's structure is based on the [OWASP Mobile Application Security Verification Standard](https://github.com/OWASP/owasp-masvs) and the corresponding tests from the [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg). For each test many features are defined with corresponding steps. 
 
+
+### Work in progress
+
+iOS:
+
+* V2 - Data Storage and Privacy
+** Testing For Sensitive Data in Logs (Done)
+** Testing for Sensitive Data in the Clipboard (Done)
+** Testing for Sensitive Data in the Keyboard Cache (To Be Completed)
+** Testing for Sensitive Data in Backups (To Be Completed)
+
+
+
+
+Android
+
 This is an opensource project mantained by [@davide107](https://twitter.com/davide107)
   
+
+
 ## v0.1
 First release.
-Addedd iOS Data Storage testing features for iOS emulators
+
 
