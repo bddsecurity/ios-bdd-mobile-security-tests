@@ -20,10 +20,10 @@ The repo's structure is based on the [OWASP Mobile Application Security Verifica
 iOS:
 
 * V2 - Data Storage and Privacy
-** Testing For Sensitive Data in Logs (Done)
-** Testing for Sensitive Data in the Clipboard (Done)
-** Testing for Sensitive Data in the Keyboard Cache (To Be Completed)
-** Testing for Sensitive Data in Backups (To Be Completed)
+	* Testing For Sensitive Data in Logs (Done)
+	* Testing for Sensitive Data in the Clipboard (Done)
+	* Testing for Sensitive Data in the Keyboard Cache (To Be Completed)
+	* Testing for Sensitive Data in Backups (To Be Completed)
 
 
 
