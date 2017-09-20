@@ -28,9 +28,6 @@ iOS:
 
 
 
-Android
-
-This is an opensource project mantained by [@davide107](https://twitter.com/davide107)
   
 
 
